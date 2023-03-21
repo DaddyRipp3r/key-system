@@ -1,5 +1,5 @@
 -- made by applebox
-getgenv().key = "Ripp3rsHUB_0002"
+getgenv().key = "Ripp3rsHUB_69420"
 HWID = (syn and syn.request or request or HttpPost or http_request)({Url = 'https://buy.khysarth.ga/', Method = syn and "Get" or "GET"}).Body
 --permkey = {"2f9bded44dec756656a6624a30f9c2e6ac018d302c2d8bbb62f36762ceed1005dd2508054d8bafcb281b03e762019f07cd1e80be548ad3fb094791f6a4dda340"}
 
